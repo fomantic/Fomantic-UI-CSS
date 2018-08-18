@@ -1,0 +1,19 @@
+{
+  "name": "fomantic-ui-css",
+  "version": "2.4.4",
+  "title": "Fomantic UI",
+  "description": "CSS Only distribution of Fomantic UI",
+  "homepage": "https://fomantic-ui.com",
+  "author": "hammy2899",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fomantic/Fomantic-UI-CSS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fomantic/Fomantic-UI/issues"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
