@@ -23,3 +23,7 @@ After installation
 ```javascript
 import 'fomantic-ui-css/semantic.min.css';
 ```
+
+## Need help?
+
+If you looking for help please open an issue on the main [Fomantic-UI](@import (multiple) "theme.less";) repository.
