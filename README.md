@@ -6,6 +6,8 @@ This package **does not support theming** and includes generated CSS files of th
 
 You can view more on Fomantic UI at [fomantic-ui.com](https://fomantic-ui.com).
 
+If you have any issues please use the main [Fomantic-UI repositroy](https://github.com/fomantic/Fomantic-UI).
+
 ## Installation
 
 ```console
