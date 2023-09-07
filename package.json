@@ -1,11 +1,12 @@
 {
   "name": "fomantic-ui-css",
-  "version": "2.9.2",
+  "version": "2.9.3",
   "title": "Fomantic UI",
   "description": "CSS Only distribution of Fomantic UI",
   "homepage": "https://fomantic-ui.com",
   "author": "hammy2899",
   "license": "MIT",
+  "types": "./types/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git://github.com/fomantic/Fomantic-UI-CSS.git"
