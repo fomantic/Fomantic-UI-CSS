@@ -14,10 +14,10 @@ If you have any issues please use the main [Fomantic-UI repository](https://gith
 $ npm install --save fomantic-ui-css
 ``` 
 
-## Usage with [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React)
+## Usage with [Fomantic-UI-React](https://github.com/Fomantic-UI-React/react-fomantic-ui)
 
 ```console
-$ yarn add semantic-ui-react
+$ yarn add react-fomantic-ui
 $ yarn add fomantic-ui-css
 ```
 
